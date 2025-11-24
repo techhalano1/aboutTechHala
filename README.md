@@ -69,6 +69,8 @@ I'm a passionate developer and tech enthusiast who loves building innovative sol
 
 ## 📫 Connect With Me
 
+<!-- Replace the '#' placeholder links below with your actual social media URLs -->
+
 <div align="center">
   
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/techhalano1)
